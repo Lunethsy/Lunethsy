@@ -23,15 +23,6 @@ Yapay zekanın sunduğu imkanları sonuna kadar kullanarak kendimi her gün daha
 
 ---
 
-### 📊 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0" alt="Asli's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=a855f7&text_color=e2e8f0" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 🤝 Benimle İletişime Geçin
 
 Ekosisteme katkı sunmak, felsefe/psikoloji üzerine tartışmak veya projelerimde iş birliği yapmak isterseniz bana her zaman ulaşabilirsiniz!
